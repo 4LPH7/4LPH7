@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm passionate about technology and constantly exploring n
 
 ## 📫 How to reach me...
 - Twitter: [@4lph7](https://twitter.com/4lph7)
-- Email: [14.4lph7@gmail.com](mailto:14.4lph7@gmail.com)
+- Email: [14m.4lph7@gmail.com](mailto:14m.4lph7@gmail.com)
 
 ## 😄 Pronouns: He/Him
 
