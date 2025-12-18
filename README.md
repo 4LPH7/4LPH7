@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm passionate about technology and constantly exploring new horizons in software development.
 
 # 💫 About Me:
-🔭 Working on: AI-driven solutions<br>👯 Open to: Collaborating on IoT and AI projects  <br>🤝 Seeking help with: AI integration & real-time analytics  <br>🌱 Learning: Ethical hacking & Data science  <br>💬 Ask me about: AI, IoT, and Cyber sec...<br>⚡ Fun fact: When I'm not coding, I love watching anime and creating YouTube gaming content! @ 4lph7<br>
+🔭 Working on: AI-driven solutions<br>👯 Open to: Collaborating on IoT and AI projects  <br>🤝 Seeking help with: AI integration & real-time analytics  <br>🌱 Learning: Ethical hacking & Data science  <br>💬 Ask me about: AI, IoT, and Cyber sec...<br>⚡ Fun fact: When I'm not coding, I love watching anime and gaming @ 4lph7<br>
 
 
 ## 🌐 Socials:
