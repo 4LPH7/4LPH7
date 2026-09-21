@@ -128,15 +128,22 @@ A decentralized voting experiment using blockchain concepts, Flask and wallet-ba
 
 ---
 
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4LPH7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4LPH7&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+<a href="https://github.com/4LPH7?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/4LPH7?tab=projects">
+  <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/4LPH7?tab=stars">
+  <img src="https://img.shields.io/badge/Starred-Projects-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
