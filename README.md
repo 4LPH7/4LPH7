@@ -88,13 +88,6 @@ Data Analysis • Machine Learning
 
 ## 🚀 Things I've Built
 
-### 🛰️ G-PINN — Physics-Informed Orbit Prediction
-
-A **Gated Physics-Informed Neural Network** designed to improve satellite orbit prediction beyond traditional SGP4 propagation.
-
-**Research direction:** `AI` `Physics` `Machine Learning` `Space Systems`
-
----
 
 ### 🔐 SecureShare
 
@@ -109,14 +102,6 @@ A secure file-sharing application built around encrypted file transfer.
 A packet inspection and analysis tool designed for learning network traffic, protocols and cybersecurity concepts.
 
 **Stack:** `Python` `Scapy`
-
----
-
-### 🌱 Sustainable Fertilizer Optimizer
-
-An AI-assisted system for recommending more efficient fertilizer usage using agricultural and environmental data.
-
-**Stack:** `Python` `Dash` `AI` `APIs`
 
 ---
 
