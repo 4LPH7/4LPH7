@@ -1,30 +1,211 @@
-⁷# 👋 Hi, I’m @4LPH7
-Welcome to my GitHub! I'm passionate about technology and constantly exploring new horizons in software development.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm **@4LPH7**
 
-# 💫 About Me:
-🔭 Working on: AI-driven solutions<br>👯 Open to: Collaborating on IoT and AI projects  <br>🤝 Seeking help with: AI integration & real-time analytics  <br>🌱 Learning: Ethical hacking & Data science  <br>💬 Ask me about: AI, IoT, and Cyber sec...<br>⚡ Fun fact: When I'm not coding, I love watching anime and gaming @ 4lph7<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_zero_1?igsh=MnFlcGgwcnN0NmVi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/4lph7) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/4lph7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/4lph7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@4lph7-0) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4LPH7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=4LPH7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4LPH7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Data+Science;Building+things+that+probably+shouldn't+work;Breaking+systems+to+understand+them;Always+learning.+Always+building." />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=4LPH7&icon=0&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arulartadg) 
+## `whoami`
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+┌──(4LPH7㉿github)-[~]
+└─$ whoami
 
+> Computer Science Engineer
+> Cybersecurity Enthusiast
+> AI / Data Science Explorer
+> Full-Stack Builder
+> Open-source tinkerer
+> Anime + Gaming enjoyer
+```
+
+I'm a **Computer Science Engineering (Data Science)** student who enjoys turning ideas into working systems.
+
+My main interests sit at the intersection of:
+
+* 🔐 **Cybersecurity & Ethical Hacking**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 📊 **Data Science & Analytics**
+* 🌐 **Web & Application Development**
+* ☁️ **Cloud, Containers & Self-hosting**
+* 🧪 **Experimenting with weird technical ideas**
+
+I learn best by **building, breaking, debugging, and rebuilding**.
+
+---
+
+## ⚡ What I'm Currently Doing
+
+|    | Focus                                        |
+| -- | -------------------------------------------- |
+| 🔭 | Building AI-powered applications             |
+| 🔐 | Learning ethical hacking & cybersecurity     |
+| 🧠 | Exploring ML, LLMs & intelligent systems     |
+| 📊 | Working with data, analytics & prediction    |
+| 🐳 | Experimenting with Docker & self-hosting     |
+| 🚀 | Turning side-project ideas into usable tools |
+
+---
+
+## 🧰 Tech Arsenal
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,r,kotlin,dart,sql" />
+</p>
+
+### AI / Data
+
+```text
+NumPy        • Pandas
+Matplotlib   • Scikit-learn
+TensorFlow   • PyTorch
+XGBoost      • Transformers
+Data Analysis • Machine Learning
+```
+
+### Web / App Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,django,flask,flutter,androidstudio" />
+</p>
+
+### DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,cloudflare" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+## 🚀 Things I've Built
+
+### 🛰️ G-PINN — Physics-Informed Orbit Prediction
+
+A **Gated Physics-Informed Neural Network** designed to improve satellite orbit prediction beyond traditional SGP4 propagation.
+
+**Research direction:** `AI` `Physics` `Machine Learning` `Space Systems`
+
+---
+
+### 🔐 SecureShare
+
+A secure file-sharing application built around encrypted file transfer.
+
+**Stack:** `Python` `Flask` `Fernet` `Web`
+
+---
+
+### 🕵️ Network Packet Analyzer
+
+A packet inspection and analysis tool designed for learning network traffic, protocols and cybersecurity concepts.
+
+**Stack:** `Python` `Scapy`
+
+---
+
+### 🌱 Sustainable Fertilizer Optimizer
+
+An AI-assisted system for recommending more efficient fertilizer usage using agricultural and environmental data.
+
+**Stack:** `Python` `Dash` `AI` `APIs`
+
+---
+
+### 🗳️ Blockchain Voting System
+
+A decentralized voting experiment using blockchain concepts, Flask and wallet-based authentication.
+
+**Stack:** `Python` `Flask` `Blockchain` `MetaMask`
+
+---
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4LPH7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4LPH7&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+</p>
+
+---
+
+## 🌐 Find Me Around the Internet
+
+<p align="center">
+
+<a href="https://github.com/4LPH7">
+<img src="https://img.shields.io/badge/GitHub-4LPH7-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/4lph7">
+<img src="https://img.shields.io/badge/LinkedIn-4LPH7-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/code_zero_1">
+<img src="https://img.shields.io/badge/Instagram-code__zero__1-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://x.com/4lph7">
+<img src="https://img.shields.io/badge/X-@4LPH7-000000?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://www.youtube.com/@4lph7-0">
+<img src="https://img.shields.io/badge/YouTube-4LPH7-FF0000?style=for-the-badge&logo=youtube" />
+</a>
+
+</p>
+
+---
+
+## 🎮 Beyond Code
+
+```text
+Anime        ███████████████████░  95%
+Gaming       ██████████████████░░  90%
+Coding       ████████████████████ 100%
+Sleep        ███████░░░░░░░░░░░░░  35%
+```
+
+When I'm not building something, you'll probably find me watching anime, playing games, or falling down another technical rabbit hole.
+
+---
+
+## 💭 Developer Philosophy
+
+> **Build it. Break it. Understand it. Improve it.**
+
+I don't want to just learn how technology works.
+
+I want to understand **why it works, how it breaks, and what can be built from it.**
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+<a href="https://buymeacoffee.com/arulartadg">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### `01001000 01000001 01000011 01001011 01001001 01001110 01000111`
+
+**Keep learning. Keep building. Keep breaking things.**
+
+</p>
