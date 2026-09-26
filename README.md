@@ -79,8 +79,6 @@ Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastr
 
 ## 🧰 Tech Arsenal
 
-> Tools I use to turn ideas into secure, data-driven products.
-
 ### 💻 Languages & Scripting
 
 <p>
@@ -186,17 +184,14 @@ A GUI-based encryption and decryption application built around a custom cryptogr
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/4LPH7?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github" alt="Explore all repositories"></a></p>
-
 ---
 
 # 📊 Live Stats
 
 <div align="center">
 
-<!-- Uses the maintained demolab endpoint instead of the retired Heroku-hosted streak endpoint. -->
 <a href="https://github.com/4LPH7">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4LPH7&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9" alt="4LPH7 GitHub stats" />
+  <img height="165" src="./profile/stats.svg" alt="4LPH7 GitHub statistics" />
 </a>
 <a href="https://github.com/4LPH7">
   <img height="165" src="https://streak-stats.demolab.com?user=4LPH7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="4LPH7 contribution streak" />
@@ -204,12 +199,8 @@ A GUI-based encryption and decryption application built around a custom cryptogr
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4LPH7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true" width="97%" alt="4LPH7 contribution activity graph" />
-
-<br>
-
 <a href="https://github.com/4LPH7?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4LPH7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="4LPH7 most used languages" />
+  <img height="165" src="./profile/top-langs.svg" alt="4LPH7 most used languages" />
 </a>
 
 </div>
@@ -222,15 +213,15 @@ A GUI-based encryption and decryption application built around a custom cryptogr
 <a href="https://github.com/4LPH7"><img src="https://img.shields.io/badge/GitHub-4LPH7-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/4lph7"><img src="https://img.shields.io/badge/LinkedIn-4LPH7-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/code_zero_1"><img src="https://img.shields.io/badge/Instagram-code__zero__1-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-<a href="https://x.com/4lph7"><img src="https://img.shields.io/badge/X-@4LPH7-000000?style=for-the-badge&logo=x" alt="X"></a>
+<a href="https://x.com/4lph7"><img src="https://img.shields.io/badge/X-4LPH7-000000?style=for-the-badge&logo=x" alt="X"></a>
 <a href="https://www.youtube.com/@4lph7-0"><img src="https://img.shields.io/badge/YouTube-4LPH7-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
 <a href="https://buymeacoffee.com/arulartadg"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
 <div align="center">
 
-### **BUILD • BREAK • LEARN • REPEAT**
+**BUILD • BREAK • LEARN • REPEAT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0D1117&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0D1117&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
