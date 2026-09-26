@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180">
+<rect width="500" height="180" rx="14" fill="#0D1117"/>
+<rect x="1" y="1" width="498" height="178" rx="13" fill="none" stroke="#1F6FEB"/>
+<text x="28" y="40" fill="#00F7FF" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">GitHub Stats</text>
+<text x="28" y="82" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="16">Updating from GitHub Actions...</text>
+<text x="28" y="112" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="13">This card will refresh automatically.</text>
+<circle cx="450" cy="34" r="8" fill="#7C3AED"/>
+<circle cx="450" cy="34" r="4" fill="#00F7FF"/>
+</svg>
