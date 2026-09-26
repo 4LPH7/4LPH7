@@ -21,16 +21,15 @@
 
 ## `whoami`
 
-```text
-┌──(4LPH7㉿github)-[~]
-└─$ whoami
+<div align="center">
 
-Computer Science Engineer
-├─ Cybersecurity
-├─ Artificial Intelligence
-├─ Data Science
-└─ Full-Stack Engineering
-```
+<img
+  src="https://terminal-identity-opal.vercel.app/api?name=ARUL_G&username=4LPH7&role=Computer%20Science%20Engineer=cat%20skills.json&theme=obsidian/graphite&avatar=4L&pattern=grid&width=980&height=auto&accent=%237C3AED&motion=scan&showLangs=on&langStyle=icons&langCount=8&iconSize=md&barStyle=blocks&stats=repos,stars"
+  width="100%"
+  alt="4LPH7 live GitHub top languages"
+  />
+  
+</div>
 
 I build practical systems around **security, AI, data and automation** — from agricultural intelligence and portfolio analytics to forensics and encrypted applications.
 
