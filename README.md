@@ -38,71 +38,214 @@ Currently exploring **ethical hacking, ML/LLMs, real-time systems, Linux, Docker
 
 ---
 
-## ⚙️ Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,r,kotlin,dart,html,css,nodejs,django,flask,flutter,androidstudio,pytorch,tensorflow,sklearn,mysql,mongodb,postgres,firebase,docker,linux,git,github,gitlab,cloudflare" />
+## ⚡ Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Ethical hacking, network security, web security, digital forensics and security automation.
+
+</td>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+Machine learning, LLMs, prediction systems, AI integrations and intelligent applications.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📊 Data Science
+
+Data analysis, visualization, predictive modelling and real-world analytics.
+
+</td>
+<td>
+
+### 🛠️ Engineering
+
+Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastructure.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Arsenal
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,r,kotlin,dart,sql" />
+</p>
+
+### 🧠 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Transformers`
+
+### 🌐 Web & Application Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,django,flask,flutter,androidstudio" />
+</p>
+
+### ☁️ Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,cloudflare" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
 </p>
 
 ---
 
-## 🚀 Selected Work
+# 🚀 Featured Projects
 
-### 🌾 [FPOLink TN](https://github.com/4LPH7/FPOLink)
-Digital infrastructure for **Farmer Producer Organisations** in Tamil Nadu, combining agricultural intelligence, forecasting, multilingual interfaces and WhatsApp communication.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`FastAPI` `PostgreSQL` `Next.js` `Docker` `XGBoost`
+### 🌾 FPOLink TN
 
-### 📈 [PortfolioIQ](https://github.com/4LPH7)
-Python-based portfolio analytics built around market data, portfolio analysis and a roadmap toward automated portfolio management.
+<a href="https://github.com/4LPH7/FPOLink">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
-`Python` `Pandas` `Kite Connect` `Analytics`
+A digital operating system for **Farmer Producer Organisations**, piloting in Tamil Nadu.
 
-### 🧠 [Mem_Scope](https://github.com/4LPH7/Mem_Scope)
-Memory forensics tooling for inspecting dumps, extracting artifacts and investigating suspicious patterns.
+Features include agricultural intelligence, price forecasting, multilingual dashboards and WhatsApp-based farmer communication.
+
+**Stack**
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Next.js` `Docker` `XGBoost`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 PortfolioIQ
+
+<a href="https://github.com/4LPH7">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+A Python-based portfolio analytics platform built around market data and portfolio analysis, with a roadmap toward automated portfolio management.
+
+**Stack**
+
+`Python` `Pandas` `Kite Connect API` `Analytics`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Mem_Scope
+
+<a href="https://github.com/4LPH7/Mem_Scope">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+A memory forensics toolkit for analysing memory dumps, identifying suspicious patterns and extracting useful artifacts.
+
+**Stack**
 
 `Python` `Digital Forensics`
 
-### 🔐 [Custom Cryptography Tool](https://github.com/4LPH7/Custom_Cryptography_Tool)
-A desktop encryption/decryption application built around a custom cryptographic algorithm.
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Custom Cryptography Tool
+
+<a href="https://github.com/4LPH7/Custom_Cryptography_Tool">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+A GUI-based encryption and decryption application built around a custom cryptographic algorithm.
+
+**Stack**
 
 `Python` `CustomTkinter` `Cryptography`
 
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/4LPH7?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# 📊 Live Stats
+
 <div align="center">
-<a href="https://github.com/4LPH7?tab=repositories"><b>→ Explore all repositories</b></a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=4LPH7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=4LPH7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4LPH7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF" width="97%"/>
+
+<img src="https://raw.githubusercontent.com/4LPH7/4LPH7/output/github-contribution-grid-snake-dark.svg" width="97%" />
+
 </div>
 
 ---
 
-## 🧪 Now Building
-
-```text
-[01] Cybersecurity     → ethical hacking • network security • forensics
-[02] AI / ML           → LLMs • prediction • intelligent systems
-[03] Engineering       → APIs • Docker • Linux • self-hosting
-[04] Data              → analytics • modelling • real-time systems
-```
-
----
-
-## 🌐
+# 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/4LPH7"><img src="https://img.shields.io/badge/GitHub-4LPH7-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"></a>
-  <a href="https://www.linkedin.com/in/4lph7"><img src="https://img.shields.io/badge/LinkedIn-4LPH7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"></a>
-  <a href="https://www.instagram.com/code_zero_1"><img src="https://img.shields.io/badge/Instagram-code__zero__1-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"></a>
-  <a href="https://x.com/4lph7"><img src="https://img.shields.io/badge/X-4LPH7-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></a>
-  <a href="https://www.youtube.com/@4lph7-0"><img src="https://img.shields.io/badge/YouTube-4LPH7-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"></a>
+
+<a href="https://github.com/4LPH7">
+<img src="https://img.shields.io/badge/GitHub-4LPH7-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/4lph7">
+<img src="https://img.shields.io/badge/LinkedIn-4LPH7-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.instagram.com/code_zero_1">
+<img src="https://img.shields.io/badge/Instagram-code__zero__1-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="https://x.com/4lph7">
+<img src="https://img.shields.io/badge/X-@4LPH7-000000?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://www.youtube.com/@4lph7-0">
+<img src="https://img.shields.io/badge/YouTube-4LPH7-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://buymeacoffee.com/arulartadg">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
+</a>
+
 </p>
 
 <div align="center">
 
-<i>Build quietly. Ship loudly.</i>
+### **BUILD • BREAK • LEARN • REPEAT**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!--
-  Dynamic ideas inspired by:
-  https://github.com/abhisheknaiidu/awesome-github-profile-readme
-  Keep external widgets limited so the profile stays fast and reliable.
--->
