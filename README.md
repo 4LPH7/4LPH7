@@ -78,47 +78,49 @@ Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastr
 
 ## 🧰 Tech Arsenal
 
-### 💻 Languages & Scripting
+<table>
+<tr>
+<td width="50%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,powershell,kotlin,dart,r" alt="Programming languages and scripting tools" />
-</p>
+**💻 Languages & Scripting**
 
-`Python` · `C/C++` · `Java` · `JavaScript` · `TypeScript` · `Bash` · `SQL` · `R`
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,powershell,kotlin,dart" alt="Programming languages and scripting tools" />
 
-### 🧠 AI, Data & Analytics
+</td>
+<td width="50%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and machine learning tools" />
-</p>
+**🧠 AI, Data & Analytics**
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Transformers` · `Jupyter`
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,matlab,r,jupyter" alt="AI and machine learning tools" />
 
-### 🌐 Web & Application Development
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,django,flask,fastapi,flutter,androidstudio" alt="Web and application development tools" />
-</p>
+**🌐 Web & Application Development**
 
-`React` · `Next.js` · `Node.js` · `Django` · `Flask` · `FastAPI` · `REST APIs` · `Flutter`
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,django,flask,fastapi,flutter,androidstudio" alt="Web and application development tools" />
 
-### 🔐 Security & Systems
+</td>
+<td align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,gitlab,githubactions" alt="Security and systems tools" />
-</p>
+**🔐 Security & Systems**
 
-`Linux` · `Docker` · `Git` · `GitHub Actions` · `Digital Forensics` · `Network Security` · `Web Security` · `Security Automation`
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,gitlab,githubactions,kubernetes,kali,vim" alt="Security and systems tools" />
 
-### ☁️ Cloud, Databases & Developer Tools
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,sqlite,cloudflare,aws,vercel,postman" alt="Cloud, database and developer tools" />
-</p>
+**☁️ Cloud, Databases & Dev Tools**
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Firebase` · `AWS` · `Cloudflare` · `Vercel` · `Postman`
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,sqlite,cloudflare,aws,vercel,postman" alt="Cloud, database and developer tools" />
 
----
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
