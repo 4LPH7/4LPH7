@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:102A43,100:00F7FF&height=210&section=header&text=4LPH7&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20DATA%20%E2%80%A2%20ENGINEERING&descAlignY=62&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Engineering+systems+that+solve+real+problems.;Building+secure%2C+intelligent+and+useful+software.;Turning+ideas+into+deployable+systems." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&lines=Engineering+systems+that+solve+real+problems.;Building+secure%2C+intelligent+and+useful+software.;Turning+ideas+into+deployable+systems." alt="Typing introduction" />
 
 <br>
 
@@ -24,7 +24,7 @@
 <div align="center">
 
 <img
-  src="https://terminal-identity-opal.vercel.app/api?name=ARUL_G&username=4LPH7&role=Computer%20Science%20Engineer=cat%20skills.json&theme=obsidian/graphite&avatar=4L&pattern=grid&width=980&height=auto&accent=%237C3AED&motion=scan&showLangs=on&langStyle=icons&langCount=8&iconSize=md&barStyle=blocks&stats=repos,stars"
+  src="https://terminal-identity-opal.vercel.app/api?name=ARUL_G&username=4LPH7&role=Computer%20Science%20Engineer&command=cat%20skills.json&theme=obsidian/graphite&avatar=4L&pattern=grid&width=980&height=auto&accent=%237C3AED&motion=scan&showLangs=on&langStyle=icons&langCount=8&iconSize=md&barStyle=blocks&stats=repos,stars"
   width="100%"
   alt="4LPH7 live GitHub top languages"
   />
@@ -43,32 +43,44 @@ Currently exploring **ethical hacking, ML/LLMs, real-time systems, Linux, Docker
 <tr>
 <td width="50%">
 
-### 🔐 Cybersecurity
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
 
 Ethical hacking, network security, web security, digital forensics and security automation.
+
+</details>
 
 </td>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+<details open>
+<summary><b>🤖 Artificial Intelligence</b></summary>
 
 Machine learning, LLMs, prediction systems, AI integrations and intelligent applications.
+
+</details>
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 📊 Data Science
+<details open>
+<summary><b>📊 Data Science</b></summary>
 
 Data analysis, visualization, predictive modelling and real-world analytics.
+
+</details>
 
 </td>
 <td>
 
-### 🛠️ Engineering
+<details open>
+<summary><b>🛠️ Engineering</b></summary>
 
 Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastructure.
+
+</details>
 
 </td>
 </tr>
@@ -121,6 +133,16 @@ Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastr
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img
+  src="https://terminal-identity-opal.vercel.app/api?name=4LPH7&username=4LPH7&role=Live%20Tech%20Profile&command=cat%20skills.json&theme=obsidian/graphite&avatar=4L&pattern=rings&width=980&height=auto&accent=%2300F7FF&motion=scan&showLangs=on&langStyle=icons&langCount=8&iconSize=md&barStyle=blocks&stats=repos,stars"
+  width="100%"
+  alt="4LPH7 animated live technology profile"
+/>
+
+</div>
 
 # 🚀 Featured Projects
 
