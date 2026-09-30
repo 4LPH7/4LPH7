@@ -202,7 +202,7 @@ A GUI-based encryption and decryption application built around a custom cryptogr
 
 <div align="center">
 <a href="https://github.com/4LPH7">
-  <img height="165" src="https://streak-stats.demolab.com?user=4LPH7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="4LPH7 contribution streak" />
+  <img height="165" src="./profile/streak.svg" alt="4LPH7 contribution streak" />
 </a>
 </div>
 
