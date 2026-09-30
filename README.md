@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:102A43,100:00F7FF&height=210&section=header&text=4LPH7&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20DATA%20%E2%80%A2%20ENGINEERING&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:102A43,100:00F7FF&height=210&section=header&text=4LPH7&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20DATA%20%20ENGINEERING&descAlignY=62&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&lines=Engineering+systems+that+solve+real+problems.;Building+secure%2C+intelligent+and+useful+software.;Turning+ideas+into+deployable+systems." alt="Typing introduction" />
 
@@ -134,15 +134,6 @@ Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastr
 </tr>
 </table>
 
-<div align="center">
-
-<img
-  src="https://terminal-identity-opal.vercel.app/api?name=4LPH7&username=4LPH7&role=Live%20Tech%20Profile&command=cat%20skills.json&theme=obsidian/graphite&avatar=4L&pattern=rings&width=980&height=auto&accent=%2300F7FF&motion=scan&showLangs=on&langStyle=icons&langCount=8&iconSize=md&barStyle=blocks&stats=repos,stars"
-  width="100%"
-  alt="4LPH7 animated live technology profile"
-/>
-
-</div>
 
 # 🚀 Featured Projects
 
