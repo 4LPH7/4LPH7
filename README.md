@@ -89,50 +89,46 @@ Full-stack applications, APIs, Docker, Linux, databases and self-hosted infrastr
 ---
 
 ## 🧰 Tech Arsenal
-
+ 
 <table>
 <tr>
 <td width="50%" align="center">
-
-**💻 Languages & Scripting**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,powershell,kotlin,dart" alt="Programming languages and scripting tools" />
-
+💻 Languages & Scripting
+ 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+ 
 </td>
 <td width="50%" align="center">
-
-**🧠 AI, Data & Analytics**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,matlab,r,jupyter" alt="AI and machine learning tools" />
-
+🧠 AI, Data & Analytics
+ 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-E70488?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
+ 
 </td>
 </tr>
 <tr>
 <td align="center">
-
-**🌐 Web & Application Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,django,flask,fastapi,flutter,androidstudio" alt="Web and application development tools" />
-
+🌐 Web & Application Development
+ 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
+ 
 </td>
 <td align="center">
-
-**🔐 Security & Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,gitlab,githubactions,kubernetes,kali,vim" alt="Security and systems tools" />
-
+🔐 Security & Systems
+ 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-30363D?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+ 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-
-**☁️ Cloud, Databases & Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,sqlite,cloudflare,aws,vercel,postman" alt="Cloud, database and developer tools" />
-
+☁️ Cloud, Databases & Dev Tools
+ 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-0F80CC?style=flat-square&logo=sqlite&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ 
 </td>
 </tr>
 </table>
+<div align="center">
 
 
 # 🚀 Featured Projects
