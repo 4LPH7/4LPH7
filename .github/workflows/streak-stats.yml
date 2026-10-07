@@ -1,8 +1,9 @@
 name: Update streak stats
 
 on:
+  # Run near the end of the India day so the card captures that day's contributions.
   schedule:
-    - cron: "15 0 * * *"
+    - cron: "30 18 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -10,6 +11,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -24,12 +29,18 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=C9D1D9&timezone=Asia/Kolkata&disable_animations=false
           path: profile/streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN || github.token }}
+
+      - name: Bust GitHub image cache
+        run: |
+          VERSION=$(date -u +%Y%m%d)
+          sed -i -E "s#(src="\./profile/streak\.svg)(\?v=[^"]*)?"#\1?v=${VERSION}"#" README.md
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
+          git add profile/streak.svg README.md
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update streak stats"
+          git commit -m "chore: refresh streak stats"
           git push
