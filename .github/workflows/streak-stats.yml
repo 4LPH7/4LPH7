@@ -32,9 +32,10 @@ jobs:
 
       - name: Refresh README image version
         shell: bash
+        env:
+          VERSION: ${{ hashFiles('profile/streak.svg') }}
         run: |
-          VERSION=$(sha256sum profile/streak.svg | cut -c1-12)
-          sed -i -E "s#(src="\./profile/streak\.svg)(\?v=[^"]*)?"#\1?v=${VERSION}"#" README.md
+          perl -pi -e 's#src="./profile/streak\.svg(?:\?v=[^"]*)?"#src="./profile/streak.svg?v=$ENV{VERSION}"#' README.md
 
       - name: Commit refreshed streak
         shell: bash
