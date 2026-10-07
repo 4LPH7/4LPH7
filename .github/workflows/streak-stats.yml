@@ -1,9 +1,8 @@
 name: Update streak stats
 
 on:
-  # Run near the end of the India day so the card captures that day's contributions.
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "15 */3 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -31,12 +30,14 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN || github.token }}
 
-      - name: Bust GitHub image cache
+      - name: Refresh README image version
+        shell: bash
         run: |
-          VERSION=$(date -u +%Y%m%d)
+          VERSION=$(sha256sum profile/streak.svg | cut -c1-12)
           sed -i -E "s#(src="\./profile/streak\.svg)(\?v=[^"]*)?"#\1?v=${VERSION}"#" README.md
 
-      - name: Commit streak stats
+      - name: Commit refreshed streak
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
