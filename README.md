@@ -211,7 +211,7 @@ A GUI-based encryption and decryption application built around a custom cryptogr
 
 <div align="center">
 <a href="https://github.com/4LPH7">
-  <img height="165" src="./profile/streak.svg?v=949620f7d504ca94de746d075c3077a19c85cdaf3384354c9e2120271a3eb4fb" alt="4LPH7 contribution streak" />
+  <img height="165" src="./profile/streak.svg?v=d636bce22d5ee3eaab28ff386432dca484bfbf4d634e32c0a51449355ab29c9d" alt="4LPH7 contribution streak" />
 </a>
 </div>
 
